@@ -22,7 +22,7 @@ izumi@arch:~$ basic-terminal
 
 Or here's an one-liner, for both building and lauching the instance for the first time
 ```bash
-izumi@arch:~$ git clone https://github.com/IzumiCypherX/BasicTerminal.git && cd BasicTerminal && makepkg -si && basic-terminal
+git clone https://github.com/IzumiCypherX/BasicTerminal.git && cd BasicTerminal && makepkg -si && basic-terminal
 ```
 >*sudo previleges are needed for building the package*
 
